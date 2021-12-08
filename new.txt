@@ -1,0 +1,6 @@
+first name - Ivan
+last name - Shybut
+age - 29
+pets - none
+profession - QA engineer
+salary - 5500 in month
