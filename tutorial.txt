@@ -2,7 +2,7 @@
 github => repositories => new => repository name => TXT
 
 2) Клонировать репозиторий XML на локальный компьютер.
-mkdir git_xml => cd git_xml => mkdir XML => cd xml => git clone https://github.com/ivanshybut/TXT.git
+mkdir git_txt => cd git_txt => mkdir TXT => cd txt => git clone https://github.com/ivanshybut/TXT.git
 
 3) Внутри локального TXT создать файл “new.txt”.
 cd txt => touch new.txt
